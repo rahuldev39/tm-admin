@@ -1,0 +1,39 @@
+.post-media img {
+    object-fit: contain;
+    height: 84px;
+    max-width: 100%;
+}
+.content-i {
+    min-height: calc(100vh - 157px);
+}
+.search-container{
+    min-height: 200px;
+    background: linear-gradient(to bottom right, #D7BBEA, #65A8F1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search-box{
+   width: 100%;
+   max-width: 900px;
+   margin: 0 auto;
+}
+.font-weight-black {
+    font-weight: 700 !important;
+}
+.text-dark {
+    color: #272727 !important;
+}
+
+.search-tips{
+    background-color: white;
+    max-width: 570px;
+    padding: 16px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.tab-inner{
+    max-width: 800px;
+    margin: 0 auto;
+}
